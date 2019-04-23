@@ -1,9 +1,3 @@
----
-title: "ECE 657A Fraud Detection Project"
-author: "Group 11"
-date: '2019-03-23'
-output: pdf_document
----
 
 
 # Data Import and Libraries
